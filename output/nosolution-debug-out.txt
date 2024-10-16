@@ -1,0 +1,449 @@
+Puzzle nosolution.txt
+backtracking.Backtracker debugging enabled...
+Current config:
+@ 2 . .
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 # .
+3 @ . .
+. . . 2
+Current config:
+@ 2 # .
+3 @ . .
+. . . 2
+	Invalid successor:
+@ 2 # #
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 # @
+3 @ . .
+. . . 2
+Current config:
+@ 2 # @
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 # @
+3 @ . .
+. . . 2
+Current config:
+@ 2 # @
+3 @ . .
+. . . 2
+	Invalid successor:
+@ 2 # @
+3 @ # .
+. . . 2
+Valid successor:
+@ 2 # @
+3 @ @ .
+. . . 2
+Current config:
+@ 2 # @
+3 @ @ .
+. . . 2
+Valid successor:
+@ 2 # @
+3 @ @ #
+. . . 2
+Current config:
+@ 2 # @
+3 @ @ #
+. . . 2
+Valid successor:
+@ 2 # @
+3 @ @ #
+# . . 2
+Current config:
+@ 2 # @
+3 @ @ #
+# . . 2
+Valid successor:
+@ 2 # @
+3 @ @ #
+# # . 2
+Current config:
+@ 2 # @
+3 @ @ #
+# # . 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+# # # 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+# # @ 2
+Valid successor:
+@ 2 # @
+3 @ @ #
+# @ . 2
+Current config:
+@ 2 # @
+3 @ @ #
+# @ . 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+# @ # 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+# @ @ 2
+Valid successor:
+@ 2 # @
+3 @ @ #
+@ . . 2
+Current config:
+@ 2 # @
+3 @ @ #
+@ . . 2
+Valid successor:
+@ 2 # @
+3 @ @ #
+@ # . 2
+Current config:
+@ 2 # @
+3 @ @ #
+@ # . 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+@ # # 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+@ # @ 2
+	Invalid successor:
+@ 2 # @
+3 @ @ #
+@ @ . 2
+Valid successor:
+@ 2 # @
+3 @ @ @
+. . . 2
+Current config:
+@ 2 # @
+3 @ @ @
+. . . 2
+Valid successor:
+@ 2 # @
+3 @ @ @
+# . . 2
+Current config:
+@ 2 # @
+3 @ @ @
+# . . 2
+Valid successor:
+@ 2 # @
+3 @ @ @
+# # . 2
+Current config:
+@ 2 # @
+3 @ @ @
+# # . 2
+	Invalid successor:
+@ 2 # @
+3 @ @ @
+# # # 2
+	Invalid successor:
+@ 2 # @
+3 @ @ @
+# # @ 2
+	Invalid successor:
+@ 2 # @
+3 @ @ @
+# @ . 2
+	Invalid successor:
+@ 2 # @
+3 @ @ @
+@ . . 2
+Valid successor:
+@ 2 @ .
+3 @ . .
+. . . 2
+Current config:
+@ 2 @ .
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ . .
+. . . 2
+Current config:
+@ 2 @ #
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ . .
+. . . 2
+Current config:
+@ 2 @ #
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ # .
+. . . 2
+Current config:
+@ 2 @ #
+3 @ # .
+. . . 2
+	Invalid successor:
+@ 2 @ #
+3 @ # #
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ # @
+. . . 2
+Current config:
+@ 2 @ #
+3 @ # @
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ # @
+# . . 2
+Current config:
+@ 2 @ #
+3 @ # @
+# . . 2
+Valid successor:
+@ 2 @ #
+3 @ # @
+# # . 2
+Current config:
+@ 2 @ #
+3 @ # @
+# # . 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+# # # 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+# # @ 2
+Valid successor:
+@ 2 @ #
+3 @ # @
+# @ . 2
+Current config:
+@ 2 @ #
+3 @ # @
+# @ . 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+# @ # 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+# @ @ 2
+Valid successor:
+@ 2 @ #
+3 @ # @
+@ . . 2
+Current config:
+@ 2 @ #
+3 @ # @
+@ . . 2
+Valid successor:
+@ 2 @ #
+3 @ # @
+@ # . 2
+Current config:
+@ 2 @ #
+3 @ # @
+@ # . 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+@ # # 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+@ # @ 2
+	Invalid successor:
+@ 2 @ #
+3 @ # @
+@ @ . 2
+Valid successor:
+@ 2 @ #
+3 @ @ .
+. . . 2
+Current config:
+@ 2 @ #
+3 @ @ .
+. . . 2
+	Invalid successor:
+@ 2 @ #
+3 @ @ #
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ @ @
+. . . 2
+Current config:
+@ 2 @ #
+3 @ @ @
+. . . 2
+Valid successor:
+@ 2 @ #
+3 @ @ @
+# . . 2
+Current config:
+@ 2 @ #
+3 @ @ @
+# . . 2
+Valid successor:
+@ 2 @ #
+3 @ @ @
+# # . 2
+Current config:
+@ 2 @ #
+3 @ @ @
+# # . 2
+	Invalid successor:
+@ 2 @ #
+3 @ @ @
+# # # 2
+	Invalid successor:
+@ 2 @ #
+3 @ @ @
+# # @ 2
+	Invalid successor:
+@ 2 @ #
+3 @ @ @
+# @ . 2
+	Invalid successor:
+@ 2 @ #
+3 @ @ @
+@ . . 2
+Valid successor:
+@ 2 @ @
+3 @ . .
+. . . 2
+Current config:
+@ 2 @ @
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 @ @
+3 @ . .
+. . . 2
+Current config:
+@ 2 @ @
+3 @ . .
+. . . 2
+Valid successor:
+@ 2 @ @
+3 @ # .
+. . . 2
+Current config:
+@ 2 @ @
+3 @ # .
+. . . 2
+	Invalid successor:
+@ 2 @ @
+3 @ # #
+. . . 2
+Valid successor:
+@ 2 @ @
+3 @ # @
+. . . 2
+Current config:
+@ 2 @ @
+3 @ # @
+. . . 2
+Valid successor:
+@ 2 @ @
+3 @ # @
+# . . 2
+Current config:
+@ 2 @ @
+3 @ # @
+# . . 2
+Valid successor:
+@ 2 @ @
+3 @ # @
+# # . 2
+Current config:
+@ 2 @ @
+3 @ # @
+# # . 2
+	Invalid successor:
+@ 2 @ @
+3 @ # @
+# # # 2
+	Invalid successor:
+@ 2 @ @
+3 @ # @
+# # @ 2
+	Invalid successor:
+@ 2 @ @
+3 @ # @
+# @ . 2
+	Invalid successor:
+@ 2 @ @
+3 @ # @
+@ . . 2
+Valid successor:
+@ 2 @ @
+3 @ @ .
+. . . 2
+Current config:
+@ 2 @ @
+3 @ @ .
+. . . 2
+Valid successor:
+@ 2 @ @
+3 @ @ #
+. . . 2
+Current config:
+@ 2 @ @
+3 @ @ #
+. . . 2
+Valid successor:
+@ 2 @ @
+3 @ @ #
+# . . 2
+Current config:
+@ 2 @ @
+3 @ @ #
+# . . 2
+Valid successor:
+@ 2 @ @
+3 @ @ #
+# # . 2
+Current config:
+@ 2 @ @
+3 @ @ #
+# # . 2
+	Invalid successor:
+@ 2 @ @
+3 @ @ #
+# # # 2
+	Invalid successor:
+@ 2 @ @
+3 @ @ #
+# # @ 2
+	Invalid successor:
+@ 2 @ @
+3 @ @ #
+# @ . 2
+	Invalid successor:
+@ 2 @ @
+3 @ @ #
+@ . . 2
+	Invalid successor:
+@ 2 @ @
+3 @ @ @
+. . . 2
+Elapsed time: 0.058 seconds.
+74 configurations generated.
+No solution!

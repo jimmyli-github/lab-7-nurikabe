@@ -1,0 +1,14 @@
+Puzzle input04.txt
+1 . . . . 
+. . . . 3 
+. . 2 . . 
+2 . . . . 
+. . . . 3 
+Elapsed time: 0.156 seconds.
+206285 configurations generated.
+Solution:
+1 @ @ @ # 
+@ @ # @ 3 
+# @ 2 @ # 
+2 @ @ @ @ 
+@ @ # # 3

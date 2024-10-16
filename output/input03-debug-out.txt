@@ -1,0 +1,119 @@
+Puzzle input03.txt
+. 2 . .
+. . . 1
+. 1 . .
+Backtracker debugging enabled...
+Current config:
+. 2 . .
+. . . 1
+. 1 . .
+Valid successor:
+# 2 . .
+. . . 1
+. 1 . .
+Current config:
+# 2 . .
+. . . 1
+. 1 . .
+	Invalid successor:
+# 2 # .
+. . . 1
+. 1 . .
+Valid successor:
+# 2 @ .
+. . . 1
+. 1 . .
+Current config:
+# 2 @ .
+. . . 1
+. 1 . .
+	Invalid successor:
+# 2 @ #
+. . . 1
+. 1 . .
+Valid successor:
+# 2 @ @
+. . . 1
+. 1 . .
+Current config:
+# 2 @ @
+. . . 1
+. 1 . .
+	Invalid successor:
+# 2 @ @
+# . . 1
+. 1 . .
+Valid successor:
+# 2 @ @
+@ . . 1
+. 1 . .
+Current config:
+# 2 @ @
+@ . . 1
+. 1 . .
+	Invalid successor:
+# 2 @ @
+@ # . 1
+. 1 . .
+Valid successor:
+# 2 @ @
+@ @ . 1
+. 1 . .
+Current config:
+# 2 @ @
+@ @ . 1
+. 1 . .
+	Invalid successor:
+# 2 @ @
+@ @ # 1
+. 1 . .
+Valid successor:
+# 2 @ @
+@ @ @ 1
+. 1 . .
+Current config:
+# 2 @ @
+@ @ @ 1
+. 1 . .
+	Invalid successor:
+# 2 @ @
+@ @ @ 1
+# 1 . .
+Valid successor:
+# 2 @ @
+@ @ @ 1
+@ 1 . .
+Current config:
+# 2 @ @
+@ @ @ 1
+@ 1 . .
+	Invalid successor:
+# 2 @ @
+@ @ @ 1
+@ 1 # .
+Valid successor:
+# 2 @ @
+@ @ @ 1
+@ 1 @ .
+Current config:
+# 2 @ @
+@ @ @ 1
+@ 1 @ .
+	Invalid successor:
+# 2 @ @
+@ @ @ 1
+@ 1 @ #
+Valid successor:
+# 2 @ @
+@ @ @ 1
+@ 1 @ @
+Current config:
+# 2 @ @
+@ @ @ 1
+@ 1 @ @
+Elapsed time: 0.024 seconds.
+19 configurations generated.
+Solution:
+# 2 @ @
+@ @ @ 1
+@ 1 @ @

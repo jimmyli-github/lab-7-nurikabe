@@ -1,0 +1,39 @@
+Puzzle input01.txt
+. .
+1 .
+Backtracker debugging enabled...
+Current config:
+. .
+1 .
+	Invalid successor:
+# .
+1 .
+Valid successor:
+@ .
+1 .
+Current config:
+@ .
+1 .
+	Invalid successor:
+@ #
+1 .
+Valid successor:
+@ @
+1 .
+Current config:
+@ @
+1 .
+	Invalid successor:
+@ @
+1 #
+Valid successor:
+@ @
+1 @
+Current config:
+@ @
+1 @
+Elapsed time: 0.022 seconds.
+7 configurations generated.
+Solution:
+@ @
+1 @

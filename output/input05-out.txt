@@ -1,0 +1,16 @@
+Puzzle input05.txt
+. 3 . . . .
+. . . . @ 4
+. . . . 2 @
+2 . . . . .
+. . . . . .
+2 . . 4 . .
+Elapsed time: 0.091 seconds.
+63569 configurations generated.
+Solution:
+# 3 @ # # #
+@ # @ @ @ 4
+@ @ @ # 2 @
+2 # @ @ @ @
+@ @ @ # # @
+2 # @ 4 # @

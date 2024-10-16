@@ -1,0 +1,4 @@
+Puzzle nosolution.txt
+Elapsed time: 0.001 seconds.
+74 configurations generated.
+No solution!

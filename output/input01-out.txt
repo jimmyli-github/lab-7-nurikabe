@@ -1,0 +1,8 @@
+Puzzle input01.txt
+. .
+1 .
+Elapsed time: 0.001 seconds.
+7 configurations generated.
+Solution:
+@ @
+1 @
